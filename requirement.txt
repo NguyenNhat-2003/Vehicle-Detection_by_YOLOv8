@@ -1,0 +1,9 @@
+opencv-python
+ultralytics
+matplotlib
+seaborn
+tqdm
+ipython
+ipywidgets
+pandas
+notebook
